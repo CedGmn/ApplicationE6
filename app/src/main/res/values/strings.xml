@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'enregistrer</string>
+    <string name="register_title">Inscription</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="password2">Retaper votre mot de passe</string>
+</resources>
